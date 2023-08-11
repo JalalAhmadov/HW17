@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.vasminka {
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+    padding: 14rem 0;
+}
+
+img {
+    height: 100vh;
+    width: 100%;
+}
+
+.ss {
+    text-align: center;
+}
+
+#qaqa {
+    font-size: 65px;
+    margin-bottom: 10px;
+    margin-top: 170px;
+}
+
+#qaqa2 {
+    font-size: 25px;
+    margin-bottom: 40px;
+}
+
+#qaqa3 {
+    padding: 30px 40px;
+    border: none;
+    background-color: lightskyblue;
+    border-radius: 7px;
+    font-size: 15px;
+    font-weight: 500;
+    color: white;
+}
+
+#qaqa3:hover {
+    background-color: lightblue;
+    transition: 0.6s;
+    cursor: pointer;
+}
+
+.qaqa {
+    text-align: center;
+
+}
+
+#aa {
+    margin-top: 300px;
+    margin-bottom: 10px;
+}
+
+#ee {
+    padding: 30px 40px;
+    border: none;
+    background-color: black;
+    border-radius: 7px;
+    font-size: 15px;
+    font-weight: 500;
+    color: white;
+    margin-top: 30px;
+}
+
+#ee:hover {
+    background-color: grey;
+    transition: 0.6s;
+    cursor: pointer;
+}
+
+.icons {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 3rem;
+    gap: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: lightblue
+}
+
+.vv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    line-height: 2;
+
+}
+
+.bb {
+    margin-top: 100px;
+    background-color: lightskyblue;
+    height: 7rem;
+    width: 7rem;
+    display: block;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.rr {
+    font-size: 44px;
+}
+
+.ff {
+    font-size: 24px;
+}
+
+.ala {
+    font-size: 14px;
+    color: grey;
+}
+
+.qq {
+    text-align: center;
+
+}
+
+#alala {
+    margin-top: 200px;
+    font-size: 24px;
+    color: gold;
+}
+
+#qaqa4 {
+    font-size: 40px;
+}
