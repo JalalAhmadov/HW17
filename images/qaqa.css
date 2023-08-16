@@ -1,0 +1,281 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+section {
+  background-image: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-masthead.jpg);
+  width: 100%;
+  height: 100vh;
+  text-align: center;
+  padding-top: 300px;
+  color: white;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.qaqa {
+  display: flex;
+  justify-content: space-between;
+}
+
+#qaqa2 {
+  padding-left: 80px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 25px;
+}
+
+#qaqa4 {
+  margin-right: 80px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: none;
+  background-color: #0d6efd;
+  padding: 20px;
+  border-radius: 8px;
+  font-weight: 600;
+  color: white;
+  box-shadow: 0px 5px 5px 0px #adb5bd
+}
+
+#qaqa3 {
+  font-size: 40px;
+}
+
+#qaqa6 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 340px;
+  padding-left: 20px;
+  font-size: 20px;
+  margin-top: 25px;
+  border-radius: 8px;
+  border: none;
+}
+
+#qaqa5 {
+  padding: 20px 22px;
+  border: none;
+  background-color: #0d6efd;
+  border-radius: 8px;
+  margin-left: 10px;
+  color: white;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+#qaqa5:hover {
+  background-color: lightblue;
+  transition: all 0.3s;
+  cursor: pointer;
+}
+
+.qaqa2 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 200px;
+}
+
+svg {
+  font-size: 60px;
+  margin-bottom: 30px;
+  color: #0d6efd;
+}
+
+/*# sourceMappingURL=qaqa.css.map */
+#qaqa4:hover {
+  background-color: lightblue;
+  transition: all 0.3s;
+  cursor: pointer;
+}
+
+.qaqa8 {
+  display: flex;
+  margin-top: 200px;
+}
+
+img {
+  width: 747px;
+  height: 480;
+}
+
+.qaqa7 {
+  margin-top: 200px;
+  margin-right: 200px;
+  margin-left: 100px;
+
+}
+
+#qaqa9 {
+  margin-bottom: 10px;
+}
+
+#qaqa10 {
+  color: grey;
+}
+
+.qaqa11 {
+  display: flex;
+}
+
+img {
+  width: 758.80px;
+  height: 480;
+}
+
+.qaqa15 {
+  margin-bottom: 10px;
+}
+
+#qaqa14 {
+  color: grey;
+}
+
+.qaqa13 {
+  margin-top: 200px;
+  margin-left: 100px;
+  margin-right: 200px;
+
+}
+
+.qaqa16 {
+  display: flex;
+}
+
+img {
+  width: 758.80px;
+  height: 480;
+}
+
+.qaqa18 {
+  margin-bottom: 10px;
+}
+
+.qaqa19 {
+  color: grey;
+}
+
+.qaqa17 {
+  margin-top: 200px;
+  margin-left: 100px;
+  margin-right: 200px;
+
+}
+
+#qaqaw {
+  display: flex;
+  justify-content: center;
+  margin-top: 150px;
+  font-size: 33px;
+}
+
+#lala {
+  margin-left: 90px;
+  width: 300px;
+}
+
+#lala2 {
+  margin-left: 90px;
+  margin-right: 90px;
+  width: 300px;
+}
+
+#lala3 {
+  width: 300px;
+  margin-right: 90px;
+}
+
+#qaqa30 {
+  margin-bottom: 10px;
+  font-size: 29px;
+}
+
+#qaqa31 {
+  font-size: 19px;
+}
+
+#qaqa9 {
+  font-size: 33px;
+}
+
+#qaqa10 {
+  font-size: 20px;
+}
+
+.qaqa15 {
+  font-size: 33px;
+}
+
+#qaqa14 {
+  font-size: 20px;
+}
+
+.qaqa18 {
+  font-size: 33px;
+}
+
+.qaqa19 {
+  font-size: 20px;
+}
+
+#bala3 {
+  width: 240px;
+  height: 240px;
+  background-color: #0d6efd;
+  border-radius: 50%;
+  box-shadow: 0px 5px 5px 0px #adb5bd
+}
+
+.qaqaw3 {
+  text-align: center;
+  margin-left: 80px;
+}
+
+.qaqaw2 {
+  display: flex;
+  justify-content: center;
+  margin-top: 70px;
+}
+
+#bala4 {
+  width: 240px;
+  height: 240px;
+  border-radius: 50%;
+  box-shadow: 0px 5px 5px 0px #adb5bd
+}
+
+.qaqaw4 {
+  text-align: center;
+  width: 400px;
+  margin-left: 160px;
+}
+
+#bala7 {
+  width: 240px;
+  height: 240px;
+  border-radius: 50%;
+  box-shadow: 0px 5px 5px 0px #adb5bd
+}
+
+.qaqaw5 {
+  text-align: center;
+  width: 400px;
+  margin-left: 80px;
+}
+
+#bala2 {
+  margin-top: 16px;
+}
+
+#bala5 {
+  margin-top: 16px;
+}
+
+#bala8 {
+  margin-top: 16px;
+}
